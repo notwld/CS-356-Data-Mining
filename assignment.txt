@@ -1,0 +1,18 @@
+Data Mining Assignment:
+
+- Kaggle make an account.
+- Select any dataset.
+- Do analysis on that selected dataset.
+- You will automatically get a starter code by kaggle after selecting any dataset.
+- Do additions in the code.
+- Analysis it as much as you can.
+After doing analysis, plot graphs, you'll get libraries there to plot it.
+
+Make one page of document, write these points:
+
+1) Which dataset you've selected? 2) What analysis you've done in the starter code?
+3) What information you got?
+
+Submission:
+- Upload your assignment on your GitHub.
+- You've to upload your dataset, jupyter notebook, Document page.
